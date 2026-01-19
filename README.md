@@ -2,7 +2,12 @@
 This model works by taking inputs of artists and giving them a score which is the probability of rapid near-term growth
 
 PROJECT ROUGH PLAN – ARTIST GROWTH PREDICTION MODEL
+
+
+
 Objective
+
+
 Create a data driven model that assigns each artist a growth score, representing the likelihood of rapid near-term growth (i.e. “blowing up”) within the next 30 days.
 The output is a ranked list of artists with explanations for the score. What “blowing up” means (statistical definition)
 “Blowing up” is defined as accelerated short-term growth, not long-term fame.
