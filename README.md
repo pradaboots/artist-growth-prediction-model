@@ -17,7 +17,7 @@ This project focuses on **near-term growth** because:
 - Platforms benefit from identifying momentum early.
 - Short time windows are measurable using public data.
 
-### Operational Definition (Proxy)
+### Operational Definition
 
 - An artist is considered to be “blowing up” if they exceed a defined **growth threshold** (e.g. follower or engagement growth) within a **30-day window**.
 
@@ -27,7 +27,7 @@ This definition serves as a **proxy label** for modeling purposes.
 
 ## Potential Data Sources (Exploratory)
 
-These data sources are considered, but **not all are used**.
+These data sources are considered, but not all are to be used.
 
 ### Instagram
 - Follower count
@@ -48,10 +48,6 @@ These data sources are considered, but **not all are used**.
 
 ### Apple Music
 - Number of tracks
-
-**Important:**
-- Listing these sources demonstrates product awareness.
-- Not using all of them demonstrates scope control and restraint.
 
 ---
 
@@ -75,10 +71,6 @@ This project intentionally does **not** attempt to:
 - Perform audio or signal processing
 - Use deep learning for its own sake
 
-**Why include this:**
-- Prevents scope creep
-- Signals engineering judgment
-- Builds reviewer trust in modeling decisions
 
 ---
 
